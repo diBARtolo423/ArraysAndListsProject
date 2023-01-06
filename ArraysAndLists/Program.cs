@@ -8,15 +8,15 @@ namespace ArraysAndLists
         static void Main(string[] args)
         {
             //TODO:
-
+            // == Jeremy's examples
             // Create an int Array and populate numbers 1-10
 
+            // var numbers = new int[] {1,2,3,4,5,6,7,8,9,10};
 
             /* Create two Lists of type int.
              * Name one List "evens"
              * Name the other List "odds"
              */
-
 
             /* Using either a foreach or for loop,
              * nest an if statement to check to see
@@ -24,7 +24,6 @@ namespace ArraysAndLists
              * Then add those numbers to either the evens List
              * or the odds List
              */
-
 
             /* Now using foreach or for loops,
              * display each List of even and odd numbers
